@@ -1,0 +1,18 @@
+body{
+    font-family: 'Special Elite', cursive;
+background-color: #f5dbda;}
+
+
+
+.copy_right{
+line-height: 3;
+color:grey;
+background-color:white;
+text-align:center;
+bottom:0;
+width: 100%;
+}
+
+body img{
+width: 100px;
+}
